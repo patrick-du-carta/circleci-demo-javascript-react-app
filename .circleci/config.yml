@@ -16,4 +16,4 @@ jobs:
           command: yarn install
       - run:
           name: Run tests
-          command: yarn run tests
+          command: yarn run test
